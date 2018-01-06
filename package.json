@@ -22,8 +22,5 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
-  },
-  "jest": {
-    "preset": "react-native"
   }
 }
