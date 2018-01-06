@@ -10,7 +10,8 @@
     "gh-pages": "^1.1.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^22.0.4",
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^1.0.17",
+    "react-test-renderer": "^16.2.0"
   },
   "dependencies": {
     "github-fork-ribbon-css": "^0.2.1",
