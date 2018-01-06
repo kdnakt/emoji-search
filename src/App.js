@@ -12,7 +12,7 @@ class App extends React.Component {
     };
   }
 
-  handleSearchChange = (event) => {
+  handleSearchChange(event) {
     this.setState({
       filteredEmoji: filterEmoji(event.target.value, 20),
     });

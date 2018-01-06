@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import './SearchInput.css';
 
 class SearchInput extends React.Component {
-  handleChange = (event) => {
+  handleChange(event) {
     this.props.textChange(event);
   }
 
