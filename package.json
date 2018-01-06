@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "http://ahfarmer.github.io/emoji-search",
   "devDependencies": {
+    "babel-jest": "^22.0.4",
+    "babel-preset-react": "^6.24.1",
     "gh-pages": "^1.1.0",
     "jest": "^22.0.4",
     "react-scripts": "^1.0.17"
